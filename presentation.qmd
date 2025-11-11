@@ -1,0 +1,150 @@
+---
+title: "R for Social Scientists"
+author: "Alexandre Changenet"
+format: revealjs
+self-contained: true
+---
+
+## Orientation
+
+**Instructor**: Alexandre Changenet (Research Data Science Service)
+
+<br/>
+
+**Helper**: Christine Stawitz (Research Software Engineering Service)
+
+**Helper**: Kiran Phalke (Research Software Engineering Service)
+
+<br/><br/>
+
+## Orientation
+
+[**Orientation Document**](https://tinyurl.com/r-soc-UOB){preview-link="true"}: https://tinyurl.com/r-soc-UOB
+
+![Orientation document QR code](img/r-soc-UOB.svg){fig-align="center"}
+
+Please have this document opened at all time or save the link. 
+
+## Advanced Research Computing
+
+> The people who bring you BEAR **Birmingham Environment for academic research**
+
+-   Research Data Storage
+-   High Performance Computing (BluBEAR)
+-   Advice, coding, coaching and support for researchers
+-   Drop-in sessions
+
+## Housekeeping
+
+```{=html}
+<style type="text/css">
+p { text-align: left; }
+</style>
+```
+
+<br/>
+
+**Session 1:** Wednesday 22nd October 13:00 - 16:00
+
+**Session 2:** Thursday 23rd October 9:30 - 12:30
+
+[Detailed agenda](https://tinyurl.com/r-soc-UOB-agenda){preview-link="true"}: 
+https://tinyurl.com/r-soc-UOB-agenda
+
+<br/>
+
+-   Breaks
+-   Toilets
+-   Fire Exits
+
+## Course Materials
+
+> The [**Course Materials**](https://datacarpentry.github.io/r-socialsci/){preview-link="true"} were written by [**Data Carpentry**](https://datacarpentry.org/){preview-link="true"}
+
+-   No prior knowledge of R assumed
+-   Focus on concepts, skills, and tools for working with data in R (not statistics)
+-   The aim is to teach you enough to know how to find out more
+
+- See [**Course Materials**](https://datacarpentry.github.io/r-socialsci/)
+
+## The Carpentries
+
+[The Carpentries](https://carpentries.org/){preview-link="true"}: https://carpentries.org/
+
+>The Carpentries empowers a diverse global community by equipping individuals with essential data and computational skills. We promote efficient, open, and reproducible research practices. By fostering collaborative development of openly available lessons and research-informed teaching methods, we build an inclusive network of practitioners and advocates who emphasise the critical role of software and data in advancing research.
+
+## The Carpentries: Code of conduct {.scrollable .smaller}
+
+Code of Conduct and how to file a report:
+
+- At the top of the Etherpad (line 20)
+- In the detailed agenda of the workshop
+
+
+## The Carpentries: Code of conduct {.scrollable .smaller}
+
+:::: {.columns style="vertical-align: top;"}
+
+::: {.column width="50%" style="vertical-align: top;"}
+
+#### Expected Behaviours
+
+- Use welcoming and inclusive language  
+- Be respectful of different viewpoints and experiences  
+- Gracefully accept constructive criticism  
+- Focus on what is best for the community  
+- Show courtesy and respect towards others
+
+:::
+
+::: {.column width="50%" style="vertical-align: top;"}
+
+#### Unacceptable Behaviours
+
+- Written or verbal comments which exclude people based on group membership  
+- Nonconsensual or unwelcome physical contact  
+- Insults or put-downs  
+- Sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes  
+- Publication of private communication without consent  
+
+:::
+
+::::
+
+
+## Teaching Methods
+
+> The [**Course Materials**](https://datacarpentry.github.io/r-socialsci/){preview-link="true"} were written by [**Data Carpentry**](https://datacarpentry.org/){preview-link="true"}
+
+-   These are the only slides
+-   Code-along with the instructor
+-   OK to interrupt
+-   Sticky notes to ask for help
+-   Etherpad
+
+## Let's get started....
+
+## Why R?
+
+```{=html}
+<style type="text/css">
+p { text-align: left; }
+</style>
+```
+
+-   One of the most popular languages for data-analysis and statistics
+-   It is free, extensible and versatile:
+    -   Interactive apps [Shiny](https://shiny.rstudio.com/), e.g. [shiny app gallery](https://shiny.posit.co/r/gallery/)
+    -   Reproducible research with [Knitr](https://yihui.name/knitr/)
+    -   [Presentations](https://quarto.org/docs/presentations/)
+-   Almost 23,000 packages written by the user community
+
+
+
+## Feedback form
+
+![Bear Feedback form](img/feedbackform.png){fig-align="center"}
+
+* [**BEAR Feedback form**](https://tinyurl.com/r-soc-fform){preview-link="true"}: https://tinyurl.com/r-soc-fform
+
+
