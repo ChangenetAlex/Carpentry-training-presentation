@@ -17,12 +17,14 @@ Before each workshop:
 
 ## 📁 Repository Structure
 
+```bash
 Carpentry-training-presentation/
 ├── presentation.qmd # Quarto source file for slides
 ├── presentation.html # Rendered HTML presentation
 ├── img/ # Folder for images (replace as needed)
 ├── .gitignore # Git ignore file
 └── presentation_start.Rproj # RStudio project file
+```
 
 ---
 
