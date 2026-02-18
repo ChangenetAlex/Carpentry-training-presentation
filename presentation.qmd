@@ -13,13 +13,11 @@ self-contained: true
 
 **Helper**: Christine Stawitz (Research Software Engineering Service)
 
-**Helper**: Kiran Phalke (Research Software Engineering Service)
-
 <br/><br/>
 
 ## Orientation
 
-[**Orientation Document**](https://tinyurl.com/r-soc-UOB){preview-link="true"}: https://tinyurl.com/r-soc-UOB
+[**Orientation Document**](https://tinyurl.com/r-soc-pad){preview-link="true"}: https://tinyurl.com/r-soc-pad
 
 ![Orientation document QR code](img/r-soc-UOB.svg){fig-align="center"}
 
@@ -44,12 +42,12 @@ p { text-align: left; }
 
 <br/>
 
-**Session 1:** Wednesday 22nd October 13:00 - 16:00
+**Session 1:** Tuesday 24th February 9:30 - 12:30
 
-**Session 2:** Thursday 23rd October 9:30 - 12:30
+**Session 2:** Wednesday 25th February 10:00 - 13:00
 
-[Detailed agenda](https://tinyurl.com/r-soc-UOB-agenda){preview-link="true"}: 
-https://tinyurl.com/r-soc-UOB-agenda
+[Detailed agenda](https://tinyurl.com/r-soc-agenda){preview-link="true"}: 
+https://tinyurl.com/r-soc-agenda
 
 <br/>
 
@@ -59,13 +57,14 @@ https://tinyurl.com/r-soc-UOB-agenda
 
 ## Course Materials
 
-> The [**Course Materials**](https://datacarpentry.github.io/r-socialsci/){preview-link="true"} were written by [**Data Carpentry**](https://datacarpentry.org/){preview-link="true"}
+> The [**Course Materials**](https://bham-carpentries.github.io/r-socialsci/){preview-link="true"} were written by [**Data Carpentry**](https://datacarpentry.org/){preview-link="true"}, adapted from 
+[**Data carpentry social science course**](https://datacarpentry.github.io/r-socialsci/){preview-link="true"} 
 
 -   No prior knowledge of R assumed
 -   Focus on concepts, skills, and tools for working with data in R (not statistics)
 -   The aim is to teach you enough to know how to find out more
 
-- See [**Course Materials**](https://datacarpentry.github.io/r-socialsci/)
+- See [**Course Materials**](https://bham-carpentries.github.io/r-socialsci/)
 
 ## The Carpentries
 
@@ -114,7 +113,7 @@ Code of Conduct and how to file a report:
 
 ## Teaching Methods
 
-> The [**Course Materials**](https://datacarpentry.github.io/r-socialsci/){preview-link="true"} were written by [**Data Carpentry**](https://datacarpentry.org/){preview-link="true"}
+> The [**Course Materials**](https://bham-carpentries.github.io/r-socialsci/){preview-link="true"} were written by [**Data Carpentry**](https://datacarpentry.org/){preview-link="true"}
 
 -   These are the only slides
 -   Code-along with the instructor
