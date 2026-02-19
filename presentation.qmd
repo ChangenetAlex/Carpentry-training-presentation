@@ -144,6 +144,5 @@ p { text-align: left; }
 
 ![Bear Feedback form](img/feedbackform.png){fig-align="center"}
 
-* [**BEAR Feedback form**](https://tinyurl.com/r-soc-fform){preview-link="true"}: https://tinyurl.com/r-soc-fform
-
+* [**BEAR Feedback form**](https://tinyurl.com/r-soc-feedback){preview-link="true"}: https://tinyurl.com/r-soc-feedback
 
