@@ -146,3 +146,10 @@ p { text-align: left; }
 
 * [**BEAR Feedback form**](https://tinyurl.com/r-soc-feedback){preview-link="true"}: https://tinyurl.com/r-soc-feedback
 
+## 2026 IT Needs Survey
+
+![](img/r-soc-it-needs.png){fig-align="center" width=300}
+
+* Your opportunity to shape the future of research computing at UoB!
+* [**Survey link**](https://tinyurl.com/r-soc-it-needs){preview-link="true"}: https://tinyurl.com/r-soc-it-needs
+
